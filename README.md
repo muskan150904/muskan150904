@@ -87,8 +87,6 @@
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/muskan-shukla-2a3b87332" target="_blank">
