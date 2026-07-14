@@ -55,7 +55,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn (Add your profile link)
+- LinkedIn (https://www.linkedin.com/in/muskan-shukla-2a3b87332)
 - Email (muskanpandit9415@gmail.com)
 
 <!--
