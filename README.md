@@ -1,47 +1,101 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Muskan+Shukla;Full+Stack+Developer;AI+%26+ML+Enthusiast;Data+Analytics+Learner;DSA+Problem+Solver" />
+  <img src="https://komarev.com/ghpvc/?username=muskan150904&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muskan150904&label=Profile%20Views&style=for-the-badge&color=blue"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muskan+Shukla;Full+Stack+Developer;AI+%26+ML+Enthusiast;Data+Analytics+Learner;DSA+Problem+Solver" />
+</p>
+<h1 align="center">Hi 👋 I'm Muskan Shukla</h1>
+
+<h3 align="center">
+Full Stack Developer • AI & ML Enthusiast • Data Analytics Learner
+</h3>
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=muskan150904&label=Profile%20views&color=0e75b6&style=flat"/>
+
 </p>
 
-<h1 align="center">Hi 👋, I'm Muskan Shukla</h1>
-
-<h3 align="center">B.Tech IT Student | Full Stack Developer | AI & Machine Learning Enthusiast</h3>
-
----
-
-## 👩‍💻 About Me
+## 🎓 About Me
 
 - 🎓 B.Tech Information Technology Student
 - 💻 Passionate Full Stack Developer
-- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🤖 AI & Machine Learning Enthusiast
 - 📊 Learning Data Analytics
-- 🌱 Solving DSA regularly
-- 🚀 Always building real-world projects
+- 🌱 Currently solving DSA and building real-world projects
+
+---
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,django,git,github,vscode,sqlite,postgres,tensorflow,opencv" />
+
+</p>
+## 🚀 Tech Stack
+
+### Languages
+- C++
+- Python
+- Java
+- JavaScript
+
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+
+### Backend
+- Django
+- SQLite
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Streamlit
+
+### AI / ML
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- OpenCV
 
 ---
 
-## 🛠️ Languages & Tools
+## 🌟 Featured Projects
+
+- 🤖 AI Chatbot using Google Gemini API
+- 📈 Retail Sales Analysis
+- 🌐 Portfolio Website
+- 📦 Parcel Management System
+- 😊 Face Recognition Attendance System
+
+
+
+## 📫 Connect With Me
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,django,bootstrap,git,github,vscode,sqlite,postgres,tensorflow,opencv" />
+<a href="https://www.linkedin.com/in/muskan-shukla-2a3b87332" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:muskanpandit9415@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muskan150904">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
+  ---
 
----
 
-## 🚀 Featured Projects
-
-- 🤖 AI Chatbot using Google Gemini API
-- 📈 Retail Sales Analysis Dashboard
-- 🌐 Responsive Portfolio Website
-- 📦 Parcel Management System
-- 😊 AI Face Recognition Attendance System
-
----
 
 ## 📊 GitHub Stats
 
@@ -53,8 +107,6 @@
 
 </p>
 
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -65,26 +117,31 @@
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/muskan-shukla-2a3b87332">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:muskanpandit9415@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/muskan150904">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=muskan150904&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
 
-## 💡 Quote
+## 📈 GitHub Activity Graph
 
-> *"Code. Learn. Build. Repeat."* 🚀
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muskan150904&theme=tokyo-night"/>
+</p>
+
+<!--
+**muskan150904/muskan150904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
