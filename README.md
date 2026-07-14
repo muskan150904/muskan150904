@@ -9,7 +9,13 @@
 - 🌱 Currently solving DSA and building real-world projects
 
 ---
+## 🛠️ Languages & Tools
 
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,django,git,github,vscode,sqlite,postgres,tensorflow,opencv" />
+
+</p>
 ## 🚀 Tech Stack
 
 ### Languages
@@ -52,6 +58,19 @@
 - 😊 Face Recognition Attendance System
 
 ---
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ## 📫 Connect With Me
 
