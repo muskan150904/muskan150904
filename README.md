@@ -108,6 +108,22 @@
 
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muskan150904&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muskan150904&theme=tokyo-night"/>
+</p>
+
 <!--
 **muskan150904/muskan150904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
